@@ -7,6 +7,8 @@ import se.edu.inclass.task.TaskNameComparator;
 
 import java.util.ArrayList;
 
+import javax.swing.event.SwingPropertyChangeSupport;
+
 public class Main {
 
     private TaskNameComparator taskNameComparator;
